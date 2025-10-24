@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-10-21T02:07:46.292491",
+  "model": "PragmaticRAG",
+  "dataset": "PragmatiCQA",
+  "results": {
+    "part_4_4_1_first_questions": {
+      "semantic_f1": "32.81"
+    },
+    "part_4_4_2_all_turns": {
+      "semantic_f1": "30.86"
+    }
+  }
+}
