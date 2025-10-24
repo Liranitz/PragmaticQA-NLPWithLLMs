@@ -1,3 +1,5 @@
 # Ignore uv.lock file
 uv.lock
 grok_key.ini
+README.md
+.env
